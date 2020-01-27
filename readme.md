@@ -11,7 +11,7 @@ Repository containing portfolio of data science projects completed by me for aca
     - [Car's quality prediction](ML%20Micro%20Projects/Machine%20Learning%20with%20KNN.ipynb): Using KNN to predict the category of a car.
     - [Dead or alive prediction](ML%20Micro%20Projects/Machine%20Learning%20with%20SVM&Random%20Forest&Decision%20Tree.ipynb): Using SVM, RF and DT to predict whether the patient with hepatitis is dead or alive.
 
-    *Tools: Scikit-learn, Pandas, Seaborn, Matplotlib*
+    *Tools: Scikit-learn, Pandas, Seaborn, Matplotlib, Imblearn*
 
     
    
