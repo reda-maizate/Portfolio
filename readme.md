@@ -7,8 +7,8 @@ Repository containing portfolio of computer science projects completed by me for
 
 
 - Micro Projects
-    - [Final grade student prediction](ML%20Micro%20Projects/Final_grade_student_prediction.ipynb): Using Linear Regression to predict the final grade of a student.
-    - [Car's quality prediction](ML%20Micro%20Projects/Car_quality_prediction.ipynb): Using KNN to predict the category of a car.
+    - [Final grade student prediction](ML%20Micro%20Projects/Student_marks_prediction.ipynb): Using Linear Regression to predict the final grade of a student.
+    - [Car's evaluation prediction](ML%20Micro%20Projects/Car_evaluation_prediction.ipynb): Using KNN to predict the category of a car.
     - [Hepatitis patients prediction](ML%20Micro%20Projects/Hepatitis_patients_prediction.ipynb): Using SVM, RF and DT to predict whether the patient with hepatitis is dead or alive.
     - [Sentiment Analysis on movie reviews](ML%20Micro%20Projects/Analyse_sentiment.ipynb): Using Embedding and LSTM to predict if a movie review is positive or negative.
 
